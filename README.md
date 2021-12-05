@@ -4,8 +4,9 @@
 <p> 
   Remember, the first step in solving any problem is to first recognize that there is a problem. Whether that be mundane-trivial problems or an emotional rot that has festered for years. It is only then one can start the problem solving process to rectify the circumstances. Though, having sophisticated search engines that can access a world wide information network certainly helps.
 </p> 
-  
+
 <p2> 
-  
+  Be an asset, not a liability.
 </p2> <br>
+
 
