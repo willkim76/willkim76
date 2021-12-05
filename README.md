@@ -1,9 +1,21 @@
-A life unexamined, is a life not worth living. The only true wisdom is knowing you know nothing.
-<img align="left" src="https://user-images.githubusercontent.com/92899817/144723541-5b8c44eb-521b-4b19-a5f0-06a415ec8d61.png"> 
+"A life unexamined, is a life not worth living." "The only true wisdom is knowing you know nothing."
+<img align="left" src="https://user-images.githubusercontent.com/92899817/144730108-a0a40603-98c4-4520-bd3b-da8ced7291d4.png"> 
 <p> 
-  The paradigm shift I had experienced by taking a Theory of Knowledge course in persuit of an IB Diploma set the ground work for who I am today. Even though I had failed to
-  achieve the Diploma, I had unknowingly retained the core tenets of the IB program. The gift of introspection until much later in the years to follow. </p>
+  The paradigm shift I experienced while undertaking the compulsory course, Theory of Knowledge, in persuit of an International Baccalaureate diploma
+  set the ground work for who I
+  am today. Even though I had failed to achieve diploma status nor understood I had received an explicit framework for introspection at the time, I
+  had retained the core tenets of
+  the IB programme. . 
+</p>
+  
 <p2> 
-  Epistemology is the tool for introspection. 
-  <br> 
+  Epistemology is the tool for introspection. It is the tool I use to ensure that my <br>
+  
 </p2>
+
+
+
+
+
+
+
