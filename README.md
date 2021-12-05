@@ -8,7 +8,7 @@
 </p> 
 
 <p2> 
-  I assume that I do not understand the problem nor the circustances to solve the problem. 
+  I assume that I do not understand the circustances the frames the problem to solve the problem. 
 </p2> <br>
 
 
