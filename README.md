@@ -1,5 +1,5 @@
 "A life unexamined, is a life not worth living." "The only true wisdom is knowing you know nothing."
-<img align="left" src="https://user-images.githubusercontent.com/92899817/144730636-e60fc0e1-eba5-4858-b80d-bbb685120460.png"> 
+<img align="left" src="https://user-images.githubusercontent.com/92899817/144730636-e60fc0e1-eba5-4858-b80d-bbb685120460.png"> <br>
 <p> 
   The paradigm shift I experienced while undertaking the compulsory course, Theory of Knowledge, in persuit of an International Baccalaureate diploma
   set the ground work for who I
