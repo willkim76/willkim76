@@ -10,7 +10,7 @@ learn the development technologies surrounding Java. Currently in the career pre
 ## Would you like to know more? 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/williamkim76) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/wilk_im)
-[![StackOverflow Badge](https://img.shields.io/badge/Stack%20Overflow-Profile-informational?style=flat&logo=stack-overflow&logoColor=white&color=FE7A16)](https://codepen.io/braydoncoyer)
+[![StackOverflow Badge](https://img.shields.io/badge/Stack%20Overflow-Profile-informational?style=flat&logo=stack-overflow&logoColor=white&color=FE7A16)](https://stackoverflow.com/users/19312101/willkim76)
 
 Though admittedly I am new and not very active on Twitter and just created a StackOverflow account even though Ive been using it for about 7 months now but nonetheless...
 
