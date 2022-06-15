@@ -12,8 +12,8 @@ the learn the development technologies surrounding Java. Currently in the career
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/wilk_im)
 [![StackOverflow Badge](https://img.shields.io/badge/Stack%20Overflow-Profile-informational?style=flat&logo=stack-overflow&logoColor=white&color=FE7A16)](https://stackoverflow.com/users/19312101/willkim76)
 
-Though admittedly I am not very active on Twitter and I just created a Stack Overflow account even though Ive been using it for about 7 months now but nonetheless feel
-free to reach out!
+I can be reached through LinkedIn or Twitter though admittedly I am not very active on Twitter and I just created a Stack Overflow account even though Ive been using it 
+for about 7 months now but nonetheless feel free to reach out! 
 
 
 <!-- <img align="left" src="https://user-images.githubusercontent.com/92899817/144738213-88067883-f6b6-4a8a-909a-03df3936c722.png">
