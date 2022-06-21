@@ -1,24 +1,27 @@
 ## Hey I'm Will 👋
 I am an aspiring software engineer interested in backend or API developement roles! I am based in the Pacific Northwest in Seattle, WA. I am fascinated with the 
-process of data modeling, architecting and implementing systems or microservices. I am also a Oracle Certified Associate in Java SE 8 programming and have a background 
+process of data modeling, architecting and implementing systems and microservices. I am Oracle Certified Associate in Java SE 8 programming and have a background 
 in Electrical Engineering.
 
 ## What have I been up to? 
-I have been cutting my teeth at Bloomtech's Enterprise Backend Developement program that was co-developed by Amazon to supplement my working knowledge of Java as well as 
-the learn the development technologies surrounding Java. Currently in the career preparation and applied computer science phase, I will soon be sending out applications!
+I have been cutting my teeth at Bloomtech's Enterprise Backend Developement program that was co-developed by Amazon to supplement my working knowledge of Java as well 
+as the learn the development technologies surrounding Java. I am currently in the career preparation and applied computer science phase but I am constantly striving to 
+learn more about the development space and the technologies.
 
-### My tool kit consists of but not limited to:
+### My current tool kit:
 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JSON Badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![JUnit Badge](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 ![Gradle Badge](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![PowerShell Badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Intellij Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### My hardware specs consist of:
+### My current hardware:
 
 ![AMD CPU Badge](https://img.shields.io/badge/AMD%20Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![AMD GPU Badge](https://img.shields.io/badge/AMD%20Radeon_RX_5700_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
