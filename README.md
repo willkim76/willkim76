@@ -7,10 +7,27 @@ in Electrical Engineering.
 I have been cutting my teeth at Bloomtech's Enterprise Backend Developement program that was co-developed by Amazon to supplement my working knowledge of Java as well as 
 the learn the development technologies surrounding Java. Currently in the career preparation and applied computer science phase, I will soon be sending out applications!
 
+### My tool kit consists of but not limited to:
+
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JSON Badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![JUnit Badge](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Gradle Badge](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![PowerShell Badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Intellij Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### My hardware specs consist of:
+
+![AMD CPU Badge](https://img.shields.io/badge/AMD%20Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![AMD GPU Badge](https://img.shields.io/badge/AMD%20Radeon_RX_5700_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ## Would you like to know more? 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/williamkim76) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/wilk_im)
-[![StackOverflow Badge](https://img.shields.io/badge/Stack%20Overflow-Profile-informational?style=flat&logo=stack-overflow&logoColor=white&color=FE7A16)](https://stackoverflow.com/users/19312101/willkim76)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamkim76) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wilk_im)
+[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19312101/willkim76)
 
 I can be reached through LinkedIn or Twitter though admittedly I am not very active on Twitter and I just created a Stack Overflow account even though Ive been using it 
 for about 7 months now but nonetheless feel free to reach out! 
