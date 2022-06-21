@@ -1,7 +1,7 @@
 ## Hey I'm Will 👋
 I am an aspiring software engineer interested in backend or API developement roles! I am based in the Pacific Northwest in Seattle, WA. I am fascinated with the 
 process of data modeling, architecting and implementing systems and microservices. I am Oracle Certified Associate in Java SE 8 programming and have a background 
-in Electrical Engineering.
+in Electrical Engineering. 
 
 ## What have I been up to? 
 I have been cutting my teeth at Bloomtech's Enterprise Backend Developement program that was co-developed by Amazon to supplement my working knowledge of Java as well 
@@ -18,6 +18,7 @@ learn more about the development space and the technologies.
 [![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](#)
 [![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)](#)
 [![Gradle Badge](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](#)
+[![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)](#)
 [![PowerShell Badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#)
 [![Intellij Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
 
