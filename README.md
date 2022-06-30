@@ -2,7 +2,7 @@
 I am an aspiring software engineer interested in backend or API developement roles! I am based in the Pacific Northwest in Seattle, WA. I am fascinated with the process of data modeling, architecting, implementing systems and microservices. I am also curious about cyptography. I am Oracle Certified Associate in Java SE 8 programming and have a background in Electrical Engineering. 
 
 ## What have I been up to? 
-I have been cutting my teeth at Bloomtech's Enterprise Backend Developement program that was co-developed by Amazon to supplement my working knowledge of Java as well as the learn the development technologies surrounding Java. I am currently in the career preparation and applied computer science phase but I am constantly striving to learn more about the development space and the technologies surround it.
+I have been cutting my teeth at Bloomtech's Enterprise Backend Developement program that was co-developed by Amazon to supplement my working knowledge of Java as well as the learn the development technologies surrounding Java. I am currently in the career preparation and applied computer science phase but I am constantly striving to learn more about the development space and the technologies surrounding it.
 
 ### My current tool kit:
 
