@@ -31,9 +31,6 @@ I have been cutting my teeth at Bloomtech's Enterprise Backend Developement prog
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wilk_im)
 [![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19312101/willkim76)
 
-I can be reached through LinkedIn or Twitter though admittedly I am not very active on Twitter and I just created a Stack Overflow account even though Ive been using it for about 7 months now but nonetheless feel free to reach out! 
-
-
 <!-- <img align="left" src="https://user-images.githubusercontent.com/92899817/144738213-88067883-f6b6-4a8a-909a-03df3936c722.png">
 <div> 
  "The only true wisdom is knowing you know nothing." - Socrates
