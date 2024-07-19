@@ -28,7 +28,6 @@ I have completed Bloomtech's Enterprise Backend Developement program that was co
 
 ## Would you like to know more? 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamkim76) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wilk_im)
 [![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19312101/willkim76)
 
 <!-- <img align="left" src="https://user-images.githubusercontent.com/92899817/144738213-88067883-f6b6-4a8a-909a-03df3936c722.png">
